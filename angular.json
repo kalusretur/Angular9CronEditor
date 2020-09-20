@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-cron-editor"
+    }
+  },
+  "defaultProject": "app-cron-editor",
+  "cli": {
+    "analytics": "f32b16b2-38b0-46b8-b844-5170b843dff6"
+  }
 }
